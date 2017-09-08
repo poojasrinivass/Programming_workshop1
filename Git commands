@@ -1,0 +1,8 @@
+1. git status
+	It checks what is being tracked and what is not
+2. git add <file/folder name>
+	Saying "Git! Look at this!" "Git! Start tracking this!"
+3. git commit -m "<message>"
+	Saying "Git I like what I've done so far, so commit all he files you've tracked"
+4. git push origin master
+	Saying "Hey you magical server that saves all my work online.  Save this stuff that I've saved in my computer !"
